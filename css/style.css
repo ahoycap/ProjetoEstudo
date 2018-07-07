@@ -27,7 +27,9 @@
     margin-right: 15px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
 body {
     background: url("../img/bg.jpg") no-repeat center;
     background-size: cover;
+    background-position-y: 20px;
 }
